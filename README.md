@@ -18,3 +18,9 @@ A fully offline, browser-based version of TurboWarp packaged as a standalone HTM
 1. Download the HTML file
 2. Open it in your web browser
 3. Start creating and editing projects instantly
+
+
+# PLEASE NOTE:
+This project is not affiliated with Scratch, Turbowarp, or any of their foundations. Scratch is a project of the Scratch Foundation. It is available for free at https://scratch.org/ and Turbowarp is a project worked by the contributors that helped make it (https://turbowarp.org/credits.html). It is available for free at https://turbowarp.org/.
+
+The defult file you see is the latest version of the application of this project. To see older versions, see our releases page in this github repository.
